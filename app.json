@@ -14,7 +14,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jamj2000.shop",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -42,7 +46,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "60d2c841-267a-47ce-94bb-e760fee6a279"
+        "projectId": "a6b39a85-5c67-43ab-ab25-ef1822046d03"
       }
     },
     "runtimeVersion": {
